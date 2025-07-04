@@ -1,0 +1,1 @@
+package com.mustafa.july02.lamda_method;
